@@ -1,0 +1,56 @@
+
+  #menuDePagina{
+    margin-left: 60px;
+    margin-right: 100px;
+  }
+.back-img{
+    position:relative;
+}
+.card-img-overlay{
+    color: #fff;
+    margin-top: 10%;
+    margin-left: 50%;
+    margin-right: 5%;
+    justify-content: right;        
+    text-align: right;
+   
+}
+#oscuro{
+filter: brightness(45%);
+}
+#botonverdeComprar{
+    background-color: rgb(41, 167, 68);
+    border-color: rgb(48, 96, 58);
+}
+
+.linea{
+    text-align: center ;
+    margin-top: 10px;
+}
+.bot1{
+    font-weight: bold;
+}
+
+#oradores{
+    margin-inline: 15%;
+}
+.linea2{
+    text-align: center ;
+    margin-top: 20px;
+}
+#formulario{
+    margin-inline: 25%;
+}
+#botonverde{
+    background-color: rgb(150, 201, 62);
+    border-color: rgb(191, 222, 138);
+}
+
+#pie{
+    background: linear-gradient(to right, rgb(28, 54, 67), rgb(30, 83, 113));
+    color: #fff;
+    padding: 40px;
+    
+    
+
+}
